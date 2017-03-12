@@ -14,5 +14,9 @@ Execution log for the computation of PL(2, 28):
 Machine spec where PL(2, 28) was computed:
 
     device_query_dual_gpu_titan_x_pascal.txt
+    
+See also a pure-CPU version of this code:
+
+    https://github.com/boris-dimitrov/z4_planar_langford
 
 Questions? Contact http://www.facebook.com/boris

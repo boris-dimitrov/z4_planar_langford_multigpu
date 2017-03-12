@@ -1,0 +1,132 @@
+
+------
+1488034640531 Computing PL(2, 7)
+1488034640578 Will use 2 system GPU(s).
+1488034641101 GPU 0 init took 0.001 seconds.
+1488034641101 GPU 0 computation took 2.2528e-05 seconds on GPU clock, 0 seconds on host clock.
+1488034641503 GPU 1 init took 0.402 seconds.
+1488034641505 GPU 1 computation took 0.00121846 seconds on GPU clock, 0.002 seconds on host clock.
+1488034641555 Result 0 for n = 7 MATCHES previously published result
+------
+
+
+------
+1488034641555 Computing PL(2, 8)
+1488034641555 Will use 2 system GPU(s).
+1488034641556 GPU 0 init took 0.001 seconds.
+1488034641557 GPU 1 init took 0.001 seconds.
+1488034641558 GPU 0 computation took 0.00201626 seconds on GPU clock, 0.002 seconds on host clock.
+1488034641559 GPU 1 computation took 0.00231424 seconds on GPU clock, 0.002 seconds on host clock.
+1488034641606 Result 4 for n = 8 MATCHES previously published result
+------
+
+
+------
+1488034641606 Computing PL(2, 11)
+1488034641606 Will use 2 system GPU(s).
+1488034641607 GPU 0 init took 0.001 seconds.
+1488034641608 GPU 1 init took 0.002 seconds.
+1488034641614 GPU 0 computation took 0.00659859 seconds on GPU clock, 0.007 seconds on host clock.
+1488034641623 GPU 1 computation took 0.0152474 seconds on GPU clock, 0.015 seconds on host clock.
+1488034641656 Result 16 for n = 11 MATCHES previously published result
+------
+
+
+------
+1488034641656 Computing PL(2, 12)
+1488034641656 Will use 2 system GPU(s).
+1488034641658 GPU 0 init took 0.002 seconds.
+1488034641658 GPU 1 init took 0.002 seconds.
+1488034641681 GPU 1 computation took 0.0229385 seconds on GPU clock, 0.023 seconds on host clock.
+1488034641682 GPU 0 computation took 0.024575 seconds on GPU clock, 0.024 seconds on host clock.
+1488034641706 Result 40 for n = 12 MATCHES previously published result
+------
+
+
+------
+1488034641706 Computing PL(2, 15)
+1488034641706 Will use 2 system GPU(s).
+1488034641708 GPU 0 init took 0.002 seconds.
+1488034641708 GPU 1 init took 0.002 seconds.
+1488034641893 GPU 1 computation took 0.185164 seconds on GPU clock, 0.185 seconds on host clock.
+1488034641898 GPU 0 computation took 0.190096 seconds on GPU clock, 0.19 seconds on host clock.
+1488034641907 Result 194 for n = 15 MATCHES previously published result
+------
+
+
+------
+1488034641907 Computing PL(2, 16)
+1488034641907 Will use 2 system GPU(s).
+1488034641916 GPU 0 init took 0.009 seconds.
+1488034641916 GPU 1 init took 0.009 seconds.
+1488034642330 GPU 1 computation took 0.414174 seconds on GPU clock, 0.414 seconds on host clock.
+1488034642430 GPU 0 computation took 0.513797 seconds on GPU clock, 0.514 seconds on host clock.
+1488034642458 Result 274 for n = 16 MATCHES previously published result
+------
+
+
+------
+1488034642458 Computing PL(2, 19)
+1488034642458 Will use 2 system GPU(s).
+1488034642463 GPU 1 init took 0.005 seconds.
+1488034642463 GPU 0 init took 0.005 seconds.
+1488034652163 GPU 0 computation took 9.70008 seconds on GPU clock, 9.7 seconds on host clock.
+1488034652178 GPU 1 computation took 9.71449 seconds on GPU clock, 9.715 seconds on host clock.
+1488034652229 Result 2384 for n = 19 MATCHES previously published result
+------
+
+
+------
+1488034652229 Computing PL(2, 20)
+1488034652229 Will use 2 system GPU(s).
+1488034652234 GPU 0 init took 0.004 seconds.
+1488034652234 GPU 1 init took 0.002 seconds.
+1488034684084 GPU 0 computation took 31.8489 seconds on GPU clock, 31.85 seconds on host clock.
+1488034684200 GPU 1 computation took 31.9643 seconds on GPU clock, 31.966 seconds on host clock.
+1488034684248 Result 4719 for n = 20 MATCHES previously published result
+------
+
+
+------
+1488034684248 Computing PL(2, 23)
+1488034684248 Will use 2 system GPU(s).
+1488034684254 GPU 0 init took 0.005 seconds.
+1488034684254 GPU 1 init took 0.003 seconds.
+1488035898609 GPU 0 computation took 1214.31 seconds on GPU clock, 1214.36 seconds on host clock.
+1488035931365 GPU 1 computation took 1247.06 seconds on GPU clock, 1247.11 seconds on host clock.
+1488035931400 Result 31856 for n = 23 MATCHES previously published result
+------
+
+
+------
+1488035931400 Computing PL(2, 24)
+1488035931400 Will use 2 system GPU(s).
+1488035931403 GPU 0 init took 0.003 seconds.
+1488035931430 GPU 1 init took 0.027 seconds.
+1488039996182 GPU 1 computation took 4064.6 seconds on GPU clock, 4064.75 seconds on host clock.
+1488040018192 GPU 0 computation took 4086.64 seconds on GPU clock, 4086.79 seconds on host clock.
+1488040018258 Result 62124 for n = 24 MATCHES previously published result
+------
+
+
+------
+1488040018258 Computing PL(2, 27)
+1488040018258 Will use 2 system GPU(s).
+1488040018262 GPU 0 init took 0.004 seconds.
+1488040018266 GPU 1 init took 0.004 seconds.
+1488214061503 GPU 0 computation took 174037 seconds on GPU clock, 174043 seconds on host clock.
+1488221331543 GPU 1 computation took 181307 seconds on GPU clock, 181313 seconds on host clock.
+1488221331811 Result 426502 for n = 27 MATCHES previously published result
+------
+
+
+------
+1488221331811 Computing PL(2, 28)
+1488221331811 Will use 2 system GPU(s).
+1488221331817 GPU 1 init took 0.006 seconds.
+1488221331817 GPU 0 init took 0.006 seconds.
+1488823122601 GPU 1 computation took 601769 seconds on GPU clock, 601791 seconds on host clock.
+1488829105991 GPU 0 computation took 607752 seconds on GPU clock, 607774 seconds on host clock.
+1488829106231 Result 817717 for n = 28 MATCHES previously published result
+------
+

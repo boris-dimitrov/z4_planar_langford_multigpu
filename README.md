@@ -18,5 +18,3 @@ Machine spec where PL(2, 28) was computed:
 See also a pure-CPU version of this code:
 
     https://github.com/boris-dimitrov/z4_planar_langford
-
-Questions? Contact http://www.facebook.com/boris
